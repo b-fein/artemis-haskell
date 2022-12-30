@@ -1,6 +1,16 @@
 = README
 
 :url-artemis: https://www.github.com/ls1intum/artemis
+:url-uni-passau-artemis: https://github.com/uni-passau-artemis/artemis-haskell
+
+[IMPORTANT]
+.Archived
+--
+This repository has been moved to a link:{url-uni-passau-artemis}[new repository].
+Please submit updates there.
+
+Older Artemis that still use the existing container images will remain working as the images are part of the user namespace and therefore remain accessible.
+--
 
 Provides the Docker image that is used in link:{url-artemis}[Artemis] to run the automatic tests for Haskell exercises.
 
